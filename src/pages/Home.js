@@ -5,6 +5,7 @@ export default function Home() {
         <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
           Welcome to Our Website
         </h1>
+        <h1>Testing...</h1>
         <p className="text-lg text-gray-600 md:text-xl mb-6">
           Discover amazing content and connect with our community.
         </p>
